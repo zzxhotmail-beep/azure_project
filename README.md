@@ -127,7 +127,7 @@ Raw source data is stored in the **Bronze container** of Azure Data Lake Storage
 
 ## 📷 Pipeline Preview
 
-![Pipeline](https://cdn.jsdelivr.net/gh/zzxhotmail-beep/azure_project@main/Pipeline_Pic.png)
+![Pipeline](https://cdn.jsdelivr.net/gh/zzxhotmail-beep/azure_project@main/Pipeline_pic.png)
 
 # 🥈 Silver Layer – Data Transformation & Standardization
 
