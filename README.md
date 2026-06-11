@@ -1,3 +1,4 @@
+![Pipeline](https://cdn.jsdelivr.net/gh/zzxhotmail-beep/azure_project@main/logo.png)
 # 🎵 Spotify End-to-End Azure Data Engineering Project
 
 ## 🚀 Overview
