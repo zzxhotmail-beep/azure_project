@@ -236,6 +236,15 @@ Benefits:
 * Supports auditability
 * Enables historical analytics
 
+Code:
+
+```text
+gold_pipeline/DimDate.py
+gold_pipeline/DimTrack.py
+gold_pipeline/DimUser.py
+gold_pipeline/FactStream.py
+```
+
 ## ✅ Data Quality Enforcement
 
 Implemented DLT Expectations to enforce data quality rules.
@@ -305,5 +314,9 @@ These are common requirements in real-world data engineering environments.
 
 ## 👤 Author - Zixuan Zhang
 
-This project highlights my hands-on expertise in Git, Databricks and fundamental DBT skills, all of which are critical for a Data Engineer role.
+This project demonstrates my ability to build a production-style Azure Data Engineering platform from data ingestion to business-ready data products.
+
+Key areas covered include Azure Data Factory, ADLS Gen2, Databricks, Auto Loader, Delta Lake, Delta Live Tables (DLT), Metadata-Driven Pipelines, Data Quality Validation, and SCD Type 2 implementation.
+
+The architecture follows enterprise data engineering best practices and reflects the technologies and patterns commonly used in modern cloud data platforms.
 - **LinkedIn**: [My Professional Profile](https://www.linkedin.com/in/zixuan-zhang-78ba38274)
