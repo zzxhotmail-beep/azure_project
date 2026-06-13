@@ -50,11 +50,9 @@ Delta Live Tables (DLT)
 Analytics & Reporting
 ```
 
-📌 Add your architecture diagram here:
+## 📷 Architecture Preview
 
-```text
-architecture/architecture.png
-```
+![architecture](https://cdn.jsdelivr.net/gh/zzxhotmail-beep/azure_project@main/Structure.png)
 
 # 📂 Source Data
 
